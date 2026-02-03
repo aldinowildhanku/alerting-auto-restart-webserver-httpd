@@ -24,6 +24,6 @@ The script sends **alerts to Discord via webhook** before, during, and after the
 
 ## Installation
 ```bash
-git clone https://github.com/aldinowildhanku/alerting-auto-restart-webserver.git
+git clone https://github.com/aldinowildhanku/alerting-auto-restart-webserver-httpd.git
 cd auto-restart-httpd-cpanel
 chmod +x restart_httpd.sh
